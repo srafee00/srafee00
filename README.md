@@ -19,7 +19,7 @@ I’ve developed a strong foundation in securing systems and understanding moder
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Hunting & Intelligence |[APT29 (Cozy Bear) Presentation](https://www.youtube.com/watch?v=FAkDtl4UOf8)|
+| Threat Hunting & Intelligence |[APT29 (Cozy Bear) Presentation](https://www.youtube.com/watch?v=cpBbEG151IA)|
 | LAMP Security Controls | [LAMP Stack Security Controls (PDF)](./LAMP-Security-Controls.pdf) |
 
 
