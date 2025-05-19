@@ -21,7 +21,7 @@ I’ve developed a strong foundation in securing systems and understanding moder
 |-----------------------------------------------|----------------------------|
 | Threat Hunting & Intelligence |[APT29 (Cozy Bear) Presentation](https://www.youtube.com/watch?v=cpBbEG151IA)|
 | LAMP Security Controls | [LAMP Stack Security Controls (PDF)](./LAMP-Security-Controls.pdf) |
-
+| Security Testing & Strategy | [Security Analysis and Tool Deployment (PDF)](./Security%20Analysis%20and%20Tool%20Deployment%20.pdf) |
 
 
 ## Tools
@@ -82,6 +82,9 @@ I’ve developed a strong foundation in securing systems and understanding moder
 
 
 ## Projects
- [LAMP Stack Security Controls (PDF)](./LAMP-Security-Controls.pdf) 
- 
  [APT29 (Cozy Bear) Presentation](https://www.youtube.com/watch?v=FAkDtl4UOf8)
+
+ [LAMP Stack Security Controls (PDF)](./LAMP-Security-Controls.pdf) 
+  
+ [Security Analysis and Tool Deployment (PDF)](./Security%20Analysis%20and%20Tool%20Deployment%20.pdf) 
+
