@@ -72,7 +72,7 @@ I’ve developed a strong foundation in securing systems and understanding moder
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://www.credly.com/badges/509fba92-f437-460c-b0df-135325dc57f9/linked_in_profile" target="_blank">
-        <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-jpg.16/full" alt="CompTIA Security+ Badge" style="width: 100px;">
+        <img src="https://raw.githubusercontent.com/srafee00/srafee00/main/security-plus-badge.png" alt="CompTIA Security+ Badge" style="width: 100px;">
     </a>
     <a href="https://app.letsdefend.io/certificate/show/f28c4bc1-fae2-40b8-8a24-a225b67358a2" target="_blank">
         <img src="https://raw.githubusercontent.com/srafee00/srafee00/main/letsdefend-soc-cert.png" alt="LetsDefend SOC Analyst Certificate" style="width: 140px;">
